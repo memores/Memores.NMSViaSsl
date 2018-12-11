@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memores.NMSViaSsl", "Memores.NMSViaSsl\Memores.NMSViaSsl.csproj", "{A564AB93-C408-4E63-9FE1-C4CDB669CC4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memores.NMSViaSsl.App", "Memores.NMSViaSsl.App\Memores.NMSViaSsl.App.csproj", "{8D77031B-6607-4A9E-9538-A919542521CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A564AB93-C408-4E63-9FE1-C4CDB669CC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A564AB93-C408-4E63-9FE1-C4CDB669CC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A564AB93-C408-4E63-9FE1-C4CDB669CC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D77031B-6607-4A9E-9538-A919542521CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D77031B-6607-4A9E-9538-A919542521CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D77031B-6607-4A9E-9538-A919542521CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D77031B-6607-4A9E-9538-A919542521CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
